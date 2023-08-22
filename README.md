@@ -3,7 +3,7 @@ Made in France 🇨🇵
 
 Software to spoof PPID
 
- # Usage
+ # Usage 🛠
 ```
 C:\Users\you\desktop>PPIDS.exe
  -p  --pid <PID>    ID de processus parent
@@ -16,5 +16,5 @@ C:\Users\you\desktop>PPIDS.exe
 # Demo
 https://youtu.be/d8XQeUbrc3w
 
-# Contact
+# Contact 💬
 #### Discord : capitaine_barnacles
