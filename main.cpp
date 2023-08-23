@@ -37,8 +37,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	if (argc != 5 || (!_tcscmp(L"--help", argv[1]) || !_tcscmp(L"-h", argv[1]))) {
 		std::cout << " -p  --pid <PID>    parent proccess ID" << std::endl;
 		std::cout << " -c  --cmd <CMD>    command to execute (program)" << std::endl;
-		std::cout << " usage: adopter.exe -c program -p pid" << std::endl;
-		std::cout << " example: adopter.exe -c notepad.exe -p 5567" << std::endl;
+		std::cout << " usage: PPIDS.exe -c program -p pid" << std::endl;
+		std::cout << " example: PPIDS.exe -c notepad.exe -p 5567" << std::endl;
 	}
 	else
 	{
