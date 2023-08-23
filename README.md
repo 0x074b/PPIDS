@@ -8,8 +8,8 @@ Software to spoof PPID
 C:\Users\you\desktop>PPIDS.exe
  -p  --pid <PID>    parent proccess ID
  -c  --cmd <CMD>    command to execute (program)
- usage: adopter.exe -c program -p pid
- example: adopter.exe -c notepad.exe -p 5567
+ usage: PPIDS.exe -c program -p pid
+ example: PPIDS.exe -c notepad.exe -p 5567
 ```
 
 #### for educational purposes only !!
